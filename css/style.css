@@ -1049,7 +1049,8 @@ h3 {
 /* line 37, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_area_inner .slider_text {
   position: absolute;
-  left: 50%;
+  left: 25%;
+  /* left: 50%; */
   top: 50%;
   transform: translate(-50%, -50%) rotate(45deg);
   background: #C78665;
